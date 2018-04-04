@@ -1,4 +1,5 @@
 # Linux Kernel Learning
+reading [wiki](https://github.com/Frxian/linuxkernel/wiki) for more details.
 ## Linux Kernel learning
 * linux kernel结构等
   * [linux kernel maps](https://github.com/Frxian/linuxkernel/wiki/linux-kernel-maps)
